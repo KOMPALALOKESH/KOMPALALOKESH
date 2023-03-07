@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Lokesh</h1>
-<h3 align="center">Deep Diver in  Data Science and Machine Learning</h3>
+<h3 align="center">Passionate About Data Science and Machine Learning</h3>
 
 <!--
 **KOMPALALOKESH/KOMPALALOKESH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align = "center" src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80">
+<img align = "right" height = "300px" width = "40%" src="https://informationage-staging.s3.amazonaws.com/uploads/2022/10/hottest-jobs-data-science-right-now.jpeg">
 
 <h3>🚀 About Me</h3>
 
-- 🌱I'm currently persuing pre final year in **computer science engineering** and passionate about Machine learning and Data Science
+- 🌱I'm currently pursuing pre final year in **computer science engineering** and passionate about Machine learning and Data Science
 - 🌱 I’m currently learning **algorithms in data science and machine learning**
 - 📫 How to reach me: **kompalalokesh123@gmail.com**
+-  🔭 I’m currently working on ***machine learning algorithms***
