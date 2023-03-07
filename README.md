@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80)
+<img align = "center" src="https://images.unsplash.com/photo-1511914265872-c40672604a80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80">
+
 <h3>🚀 About Me</h3>
-🌱 I’m currently learning **algorithms in data science and machine learning**
+
+- 🌱I'm currently persuing pre final year in **computer science engineering** and passionate about Machine learning and Data Science
+- 🌱 I’m currently learning **algorithms in data science and machine learning**
+- 📫 How to reach me: **kompalalokesh123@gmail.com**
