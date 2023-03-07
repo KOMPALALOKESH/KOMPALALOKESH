@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--
 <img align = "right" height = "300px" width = "40%" src="https://en.pimg.jp/078/100/587/1/78100587.jpg">
 -->
-<img align = "right" height = "300px" width = "40%" src="https://cdn.dribbble.com/users/1564335/screenshots/6138111/media/c41e94c1247119c87df30f58ada56fd7.jpg?compress=1&resize=400x300&vertical=top">
+<img align = "right" height = "300px" width = "45%" src="https://cdn.dribbble.com/users/1564335/screenshots/6138111/media/c41e94c1247119c87df30f58ada56fd7.jpg">
 
 <h3>🚀 About Me</h3>
 
