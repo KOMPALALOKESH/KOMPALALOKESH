@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <img align = "right" height = "300px" width = "40%" src="https://informationage-staging.s3.amazonaws.com/uploads/2022/10/hottest-jobs-data-science-right-now.jpeg">
+-->
+<!--
+<img align = "right" height = "300px" width = "40%" src="https://en.pimg.jp/078/100/587/1/78100587.jpg">
+-->
+<img align = "right" height = "300px" width = "40%" src="https://cdn.dribbble.com/users/1564335/screenshots/6138111/media/c41e94c1247119c87df30f58ada56fd7.jpg?compress=1&resize=400x300&vertical=top">
 
 <h3>🚀 About Me</h3>
 
