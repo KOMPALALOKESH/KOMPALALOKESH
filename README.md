@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3>🚀 About Me</h3>
 
-- 🌱I'm currently pursuing pre final year in **computer science engineering** and passionate about Machine learning and Data Science
+- 🌱I'm currently pursuing pre final year in **computer science engineering** and passionate about Machine learning and Data Science🔥🔥
 
 - 🌱 I’m currently learning **algorithms in data science and machine learning**
  
@@ -27,7 +27,8 @@ Here are some ideas to get you started:
  
 -  🔭 I’m currently working on ***Machine Learning Algorithms***
  
-- 💬 Ask me about **data processing,visualization**
+- 💬 Ask me about 
+  **data processing,visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +44,8 @@ Here are some ideas to get you started:
   <img src="https://matplotlib.org/3.1.3/_static/logo2_compressed.svg" alt="matplolib.pyplot" width="80" height="50"/> &nbsp;
   <img src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png" alt="seaborn" width="70" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="80" height="50"/> &nbsp;
+  <img src="https://img.stackshare.io/service/7729/gluon-api.png" alt="auto-gluon" width="50" height="50"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> &nbsp;
-  <img src="https://www.pngfind.com/pngs/m/146-1466951_php-logo-png-my-sql-5-transparent-png.png" alt="my-sql" width="50" height="50"/> &nbsp;
+  <img src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" alt="my-sql" width="50" height="50"/> &nbsp;
   
 </p>
