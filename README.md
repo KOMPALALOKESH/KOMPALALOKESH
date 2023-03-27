@@ -52,6 +52,6 @@ Here are some ideas to get you started:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="80" height="50"/> &nbsp;
   <img src="https://img.stackshare.io/service/7729/gluon-api.png" alt="auto-gluon" width="50" height="50"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png" alt="tensorflow" width="50" height="50"/> &nbsp;
-  <img src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" alt="my-sql" width="50" height="50"/> &nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYlZAny-11lIECdTs4RUleUbrqt4LPd2fQxQ&usqp=CAU" alt="my-sql" width="50" height="50"/> &nbsp;
   
 </p>
