@@ -23,7 +23,7 @@
 <h3 align="left">My stack:</h3>
 
 <p align="left">
-
+  &nbsp;
   <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" alt="aws" width="40" height="40"/>
@@ -50,3 +50,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="aws" height='40px'/>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KOMPALALOKESH&" alt="KOMPALALOKESH" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KOMPALALOKESH&show_icons=true&locale=en" alt="KOMPALALOKESH" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KOMPALALOKESH&show_icons=true&locale=en&layout=compact" alt="KOMPALALOKESH" /></p>
