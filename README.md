@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/kompalalokesh/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthYe78oheDI7YGKs5low913jGdzEN09ZawucFtoJItw&s" alt="@Lokesh Kompala" height='40px'/></a> </p>
 
+[Key Projects]()
+
 <h3 align="left">About me:</h3>
 
 - 🔭 Continuous exploring trends in big data and gaining knowledge from [youtube](https://www.youtube.com/), [medium](https://www.medium.com/), [google](https://www.google.com/)
