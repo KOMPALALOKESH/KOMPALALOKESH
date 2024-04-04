@@ -22,6 +22,17 @@
 <p align="left">
 
   <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353950/kafka.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/452091/python.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   
 </p>
 
