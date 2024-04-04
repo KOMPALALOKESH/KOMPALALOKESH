@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/kompalalokesh/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthYe78oheDI7YGKs5low913jGdzEN09ZawucFtoJItw&s" alt="@Lokesh Kompala" height='40px'/></a> </p>
 
-[goto key Projects↗️]()
+**[goto key Projects↗️]()** 
 
 <h3 align="left">About me:</h3>
 
