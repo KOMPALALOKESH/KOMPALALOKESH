@@ -35,13 +35,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="aws" width="" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="aws" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="aws" width="35" height="35"/>
   <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" alt="aws" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/276px-Snowflake_Logo.svg.png?20210330073721" alt="aws" height="35px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Snow_flake.svg/596px-Snow_flake.svg.png" alt="aws" height="40px"/>
   <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" alt="aws" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LangChain_logo.svg/480px-LangChain_logo.svg.png" alt="aws" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LangChain_logo.svg/480px-LangChain_logo.svg.png" alt="aws" height="35px"/>
   <img src="https://asset.brandfetch.io/idGqKHD5xE/idyUOkmwIu.svg?updated=1668516030712" alt="aws" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="aws" height="40px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="aws" height="35px"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="aws" height='55px'/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="aws" height='40px'/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="aws" height='40px'/>
 </p>
 
