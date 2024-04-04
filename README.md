@@ -16,3 +16,12 @@
 - 📜 Know about my certifications and achievements [https://www.linkedin.com/in/kompalalokesh/](https://www.linkedin.com/in/kompalalokesh/)
 
 - 📫 How to reach me [kompalalokesh123@gmail.com](mailto:kompalalokesh123@gmail.com)
+
+<h3 align="left">My stack:</h3>
+
+<p align="left">
+
+  <img src="https://www.svgrepo.com/show/376356/aws.svg" alt="aws" width="40" height="40"/>
+  
+</p>
+
