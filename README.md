@@ -1,6 +1,3 @@
-<h1> 
-  
-</h1>
 <h1 align="center">Hi 👋, I'm Lokesh Kompala</h1>
 <h3 align="center">Interests about data engineering | cloud technologies | pipeline design | data science</h3>
 
