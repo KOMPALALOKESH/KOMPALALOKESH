@@ -34,7 +34,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="aws" width="" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="aws" width="40" height="40"/>
   <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" alt="aws" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/276px-Snowflake_Logo.svg.png?20210330073721" alt="aws" height="35px"/>
