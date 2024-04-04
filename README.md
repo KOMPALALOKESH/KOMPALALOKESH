@@ -52,6 +52,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="aws" height='40px'/>
 </p>
 
+<h3 align="left">My activity:</h3>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KOMPALALOKESH&show_icons=true&locale=en&layout=compact" alt="KOMPALALOKESH" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KOMPALALOKESH&show_icons=true&locale=en" alt="KOMPALALOKESH" /></p>
