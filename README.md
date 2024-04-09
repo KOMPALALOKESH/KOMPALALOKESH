@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 Continuous exploring trends in big data and gaining knowledge from [youtube](https://www.youtube.com/), [medium](https://www.medium.com/), [google](https://www.google.com/)
+- 🔭 Continuous exploring trends in big data, data science and gaining knowledge from [youtube](https://www.youtube.com/), [medium](https://www.medium.com/), [google](https://www.google.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KOMPALALOKESH](https://github.com/KOMPALALOKESH)
 
