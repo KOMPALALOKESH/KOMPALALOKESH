@@ -19,6 +19,22 @@
 
 - 📫 How to reach me [kompalalokesh123@gmail.com](mailto:kompalalokesh123@gmail.com)
 
+<h3 align="left">My Skills🛠️ and Expertise worlds🌎 around:</h3>
+
+&ensp; 🔀 Proficiency in building **end-to-end data pipelines** for analytics and data science works.<br>
+ 
+&ensp; 💻 Experience in data pipelines with tools **Apache Spark**, **Kafka** etc.<br>
+ 
+&ensp; ☁️ Cloud Computing Services like **AWS**, **DataBricks**, **Snowflake**, **DBT** etc.<br>
+ 
+&ensp; 🌐 Building data from backend(Fastapi) for **Batch wise, Stream processing**.<br>
+ 
+&ensp; 🐳 Containerizing applications with **Docker**.<br>
+ 
+&ensp; 🛢 Experience in **SQL**, **NoSQL** data storage technologies.<br>
+ 
+&ensp; 🤖 Refining state-of-art models using google colab, **aws sagemaker**.<br>
+ 
 <h3 align="left">My stack:</h3>
 
 <p align="left">
