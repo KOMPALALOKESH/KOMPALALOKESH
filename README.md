@@ -57,7 +57,6 @@
   <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" alt="aws" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Snow_flake.svg/596px-Snow_flake.svg.png" alt="aws" height="40px"/>
   <img src="https://logowik.com/content/uploads/images/dbt5596.jpg" alt="aws" height="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/LangChain_logo.svg/480px-LangChain_logo.svg.png" alt="aws" height="35px"/>
   <img src="https://asset.brandfetch.io/idGqKHD5xE/idyUOkmwIu.svg?updated=1668516030712" alt="aws" height="40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="aws" height="35px"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="aws" height='55px'/>
