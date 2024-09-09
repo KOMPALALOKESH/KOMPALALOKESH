@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kompalalokesh&label=Profile%20views&color=0e75b6&style=flat" alt="kompalalokesh" /> </p>
 
-# <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kompalalokesh" alt="kompalalokesh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kompalalokesh" alt="kompalalokesh" /></a> </p>
 
 - 🔭 I’m currently working on **Backend**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kompalalokesh123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-yCpeU3yPUaHVtUNwthWBN_Q4wdTfhtB/view?usp=drive_link](https://drive.google.com/file/d/1-yCpeU3yPUaHVtUNwthWBN_Q4wdTfhtB/view?usp=drive_link)
+- 📄 Know about my experiences <br>[https://drive.google.com/file/d/1-yCpeU3yPUaHVtUNwthWBN_Q4wdTfhtB/view?usp=drive_link](https://drive.google.com/file/d/1-yCpeU3yPUaHVtUNwthWBN_Q4wdTfhtB/view?usp=drive_link), <br>[https://drive.google.com/file/d/1newsbotl54_gjdk6Hp-liKPAi1jqlt5R/view?usp=drive_link](https://drive.google.com/file/d/1newsbotl54_gjdk6Hp-liKPAi1jqlt5R/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
